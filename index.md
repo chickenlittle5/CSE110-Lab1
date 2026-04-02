@@ -13,7 +13,7 @@ Link to the header section: [Ethan Tran](#ethan-tran)
 
 ## Relative Links
 [Go to README](README.md)  
-[View Dog]([images/profile.png](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1xw:0.74975xh;0,0.190xh))
+[View Dog](dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
 
 ---
 
